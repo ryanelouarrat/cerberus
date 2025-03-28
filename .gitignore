@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore all .txt files except "wordlist.txt"
+*.txt
+!common2.txt
+
+# Ignore Python cache directories
+__pycache__/
