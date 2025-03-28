@@ -4,13 +4,13 @@ node_modules/
 # Build output
 dist/
 build/
-
+responses/
 # Log files
 *.log
 
 # Environment variables
 .env
-
+.vscode/
 # OS generated files
 .DS_Store
 Thumbs.db

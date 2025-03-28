@@ -1,11 +1,4 @@
 # Cerberus
- ▄▀▄▄▄▄   ▄▀▀█▄▄▄▄  ▄▀▀▄▀▀▀▄  ▄▀▀█▄▄   ▄▀▀█▄▄▄▄  ▄▀▀▄▀▀▀▄  ▄▀▀▄ ▄▀▀▄  ▄▀▀▀▀▄ 
-█ █    ▌ ▐  ▄▀   ▐ █   █   █ ▐ ▄▀   █ ▐  ▄▀   ▐ █   █   █ █   █    █ █ █   ▐ 
-▐ █        █▄▄▄▄▄  ▐  █▀▀█▀    █▄▄▄▀    █▄▄▄▄▄  ▐  █▀▀█▀  ▐  █    █     ▀▄   
-  █        █    ▌   ▄▀    █    █   █    █    ▌   ▄▀    █    █    █   ▀▄   █  
- ▄▀▄▄▄▄▀  ▄▀▄▄▄▄   █     █    ▄▀▄▄▄▀   ▄▀▄▄▄▄   █     █      ▀▄▄▄▄▀   █▀▀▀   
-█     ▐   █    ▐   ▐     ▐   █    ▐    █    ▐   ▐     ▐               ▐      
-▐         ▐                  ▐         ▐
 
 Cerberus is a web security scanner designed to identify various vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Path Traversal, and more. It incorporates multiple scanning modules for a comprehensive analysis with an option for a full scan.
 
