@@ -214,6 +214,10 @@ def main():
                     pathtraversal_main(target_url)
             REPORT['pathtraversal'] = sanitize_output(pt_buffer.getvalue().strip()) or \
                                       "Path traversal scan did not return detailed output."
+        
+        if modules_to_run.get('dirbuster'):
+            run_dirbuster(target_url, quiet=args.quiet)
+        
         if modules_to_run.get('techscan'):
             if not args.quiet:
                 print(f"\n{GREEN}[+]{RESET} Running Technology Stack analysis...")
