@@ -18,6 +18,7 @@ Thumbs.db
 # Ignore all .txt files except "wordlist.txt"
 *.txt
 !common2.txt
+!requirements.txt
 
 # Ignore Python cache directories
 __pycache__/
