@@ -1,9 +1,16 @@
 ![cerberus](logo.png)
 <!-- Added badges for visual flair -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ryanelouarrat/cerberus.svg?style=social)](https://github.com/ryanelouarrat/cerberus)
-[![GitHub issues](https://img.shields.io/github/issues/ryanelouarrat/cerberus)](https://github.com/ryanelouarrat/cerberus)
-
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  </a>
+  <a href="https://github.com/ryanelouarrat/cerberus/stargazers">
+    <img src="https://img.shields.io/github/stars/ryanelouarrat/cerberus.svg?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/ryanelouarrat/cerberus/issues">
+    <img src="https://img.shields.io/github/issues/ryanelouarrat/cerberus" alt="GitHub issues">
+  </a>
+</p>
 # Cerberus
 _An advanced web security scanner for identifying vulnerabilities._
 
