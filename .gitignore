@@ -22,3 +22,6 @@ Thumbs.db
 
 # Ignore Python cache directories
 __pycache__/
+
+.vscode/
+*.code-workspace
